@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExercicioTresPaddariaHotPao</string>
+    <string name="digite_a_quantidade_de_p_es_vendidos_no_dia">Digite a quantidade de pães vendidos no dia</string>
+    <string name="padaria_hotpao">Padaria HotPao</string>
+</resources>
